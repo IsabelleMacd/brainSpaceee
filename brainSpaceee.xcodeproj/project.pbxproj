@@ -11,6 +11,20 @@
 		BD5D51962A4B3937001E2C8D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5D51952A4B3937001E2C8D /* ContentView.swift */; };
 		BD5D51982A4B3938001E2C8D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD5D51972A4B3938001E2C8D /* Assets.xcassets */; };
 		BD5D519B2A4B3938001E2C8D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD5D519A2A4B3938001E2C8D /* Preview Assets.xcassets */; };
+		BDB14F812A4F277A00A42325 /* JournalPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB14F802A4F277A00A42325 /* JournalPage.swift */; };
+		BDB14F832A4F285A00A42325 /* todolist.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB14F822A4F285A00A42325 /* todolist.swift */; };
+		BDB14F852A4F28A200A42325 /* game.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB14F842A4F28A200A42325 /* game.swift */; };
+		BDB14F872A4F28D600A42325 /* timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB14F862A4F28D600A42325 /* timer.swift */; };
+		BDB14F892A4F28FE00A42325 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB14F882A4F28FE00A42325 /* Helper.swift */; };
+		BDB14F8B2A4F29B800A42325 /* TimerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB14F8A2A4F29B800A42325 /* TimerManager.swift */; };
+		BDBC019F2A4E135E008F3BCC /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBC019E2A4E135E008F3BCC /* Persistence.swift */; };
+		BDBC01A22A4E141B008F3BCC /* brainSpaceee.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BDBC01A02A4E141B008F3BCC /* brainSpaceee.xcdatamodeld */; };
+		BDECC1332A4DD54C009218A9 /* Sad.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDECC1322A4DD54C009218A9 /* Sad.swift */; };
+		BDECC1352A4DD59A009218A9 /* Happy.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDECC1342A4DD59A009218A9 /* Happy.swift */; };
+		BDECC1372A4DD608009218A9 /* Angry.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDECC1362A4DD608009218A9 /* Angry.swift */; };
+		BDECC1392A4DD687009218A9 /* Confused.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDECC1382A4DD687009218A9 /* Confused.swift */; };
+		BDECC13B2A4DEE52009218A9 /* Journal.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDECC13A2A4DEE52009218A9 /* Journal.swift */; };
+		BDECC13D2A4DFC6C009218A9 /* JournalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDECC13C2A4DFC6C009218A9 /* JournalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,20 @@
 		BD5D51952A4B3937001E2C8D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD5D51972A4B3938001E2C8D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD5D519A2A4B3938001E2C8D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BDB14F802A4F277A00A42325 /* JournalPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalPage.swift; sourceTree = "<group>"; };
+		BDB14F822A4F285A00A42325 /* todolist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = todolist.swift; sourceTree = "<group>"; };
+		BDB14F842A4F28A200A42325 /* game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = game.swift; sourceTree = "<group>"; };
+		BDB14F862A4F28D600A42325 /* timer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timer.swift; sourceTree = "<group>"; };
+		BDB14F882A4F28FE00A42325 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		BDB14F8A2A4F29B800A42325 /* TimerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerManager.swift; sourceTree = "<group>"; };
+		BDBC019E2A4E135E008F3BCC /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		BDBC01A12A4E141B008F3BCC /* brainSpaceee.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = brainSpaceee.xcdatamodel; sourceTree = "<group>"; };
+		BDECC1322A4DD54C009218A9 /* Sad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sad.swift; sourceTree = "<group>"; };
+		BDECC1342A4DD59A009218A9 /* Happy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Happy.swift; sourceTree = "<group>"; };
+		BDECC1362A4DD608009218A9 /* Angry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Angry.swift; sourceTree = "<group>"; };
+		BDECC1382A4DD687009218A9 /* Confused.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Confused.swift; sourceTree = "<group>"; };
+		BDECC13A2A4DEE52009218A9 /* Journal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Journal.swift; sourceTree = "<group>"; };
+		BDECC13C2A4DFC6C009218A9 /* JournalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,8 +81,22 @@
 			children = (
 				BD5D51932A4B3937001E2C8D /* brainSpaceeeApp.swift */,
 				BD5D51952A4B3937001E2C8D /* ContentView.swift */,
+				BDB14F802A4F277A00A42325 /* JournalPage.swift */,
+				BDBC019E2A4E135E008F3BCC /* Persistence.swift */,
+				BDB14F822A4F285A00A42325 /* todolist.swift */,
+				BDB14F842A4F28A200A42325 /* game.swift */,
+				BDB14F862A4F28D600A42325 /* timer.swift */,
+				BDB14F882A4F28FE00A42325 /* Helper.swift */,
+				BDB14F8A2A4F29B800A42325 /* TimerManager.swift */,
+				BDECC13C2A4DFC6C009218A9 /* JournalView.swift */,
+				BDECC13A2A4DEE52009218A9 /* Journal.swift */,
+				BDECC1382A4DD687009218A9 /* Confused.swift */,
+				BDECC1362A4DD608009218A9 /* Angry.swift */,
+				BDECC1342A4DD59A009218A9 /* Happy.swift */,
+				BDECC1322A4DD54C009218A9 /* Sad.swift */,
 				BD5D51972A4B3938001E2C8D /* Assets.xcassets */,
 				BD5D51992A4B3938001E2C8D /* Preview Content */,
+				BDBC01A02A4E141B008F3BCC /* brainSpaceee.xcdatamodeld */,
 			);
 			path = brainSpaceee;
 			sourceTree = "<group>";
@@ -137,7 +179,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDB14F852A4F28A200A42325 /* game.swift in Sources */,
+				BDBC019F2A4E135E008F3BCC /* Persistence.swift in Sources */,
+				BDB14F892A4F28FE00A42325 /* Helper.swift in Sources */,
+				BDECC1372A4DD608009218A9 /* Angry.swift in Sources */,
+				BDECC1352A4DD59A009218A9 /* Happy.swift in Sources */,
+				BDBC01A22A4E141B008F3BCC /* brainSpaceee.xcdatamodeld in Sources */,
+				BDB14F872A4F28D600A42325 /* timer.swift in Sources */,
+				BDECC13D2A4DFC6C009218A9 /* JournalView.swift in Sources */,
+				BDECC1392A4DD687009218A9 /* Confused.swift in Sources */,
+				BDB14F8B2A4F29B800A42325 /* TimerManager.swift in Sources */,
+				BDECC1332A4DD54C009218A9 /* Sad.swift in Sources */,
+				BDB14F832A4F285A00A42325 /* todolist.swift in Sources */,
 				BD5D51962A4B3937001E2C8D /* ContentView.swift in Sources */,
+				BDECC13B2A4DEE52009218A9 /* Journal.swift in Sources */,
+				BDB14F812A4F277A00A42325 /* JournalPage.swift in Sources */,
 				BD5D51942A4B3937001E2C8D /* brainSpaceeeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -279,7 +335,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = KWK.brainSpaceee;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Diya-Mishra.spaceapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -307,7 +363,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = KWK.brainSpaceee;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Diya-Mishra.spaceapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -337,6 +393,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		BDBC01A02A4E141B008F3BCC /* brainSpaceee.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				BDBC01A12A4E141B008F3BCC /* brainSpaceee.xcdatamodel */,
+			);
+			currentVersion = BDBC01A12A4E141B008F3BCC /* brainSpaceee.xcdatamodel */;
+			path = brainSpaceee.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = BD5D51882A4B3937001E2C8D /* Project object */;
 }
